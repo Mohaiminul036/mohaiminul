@@ -526,7 +526,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // CONSOLE MESSAGE
     // ==========================================
     
-    console.log('%c👋 Welcome to Mohaiminul Islam Emon\'s Portfolio!', 'color: #2563eb; font-size: 20px; font-weight: bold;');
+    console.log('%c👋 Welcome to Md Mohaiminul Islam Emon\'s Portfolio!', 'color: #2563eb; font-size: 20px; font-weight: bold;');
     console.log('%cInterested in the code? Check out the GitHub repository!', 'color: #64748b; font-size: 14px;');
     console.log('%c🔗 https://github.com/Mohaiminul036', 'color: #10b981; font-size: 14px;');
     

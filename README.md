@@ -1,4 +1,4 @@
-# Mohaiminul Islam Emon - Portfolio Website
+# Md Mohaiminul Islam Emon - Portfolio Website
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://mohaiminul036.github.io)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -271,7 +271,7 @@ This project is licensed under the MIT License - feel free to use it as a templa
 
 ## 📞 Contact
 
-**Mohaiminul Islam Emon**
+**Md Mohaiminul Islam Emon**
 
 - **Email**: [mohaiminul100@hotmail.com](mailto:mohaiminul100@hotmail.com)
 - **Phone**: +47 46 24 69 32
@@ -300,7 +300,7 @@ This project is licensed under the MIT License - feel free to use it as a templa
 
 ---
 
-**Built with ❤️ by Mohaiminul Islam Emon**
+**Built with ❤️ by Md Mohaiminul Islam Emon**
 
 *Last Updated: January 2026*
 
